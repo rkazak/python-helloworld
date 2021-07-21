@@ -42,5 +42,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: rkazak/python-helloworld:latest
+          tags: rkazak/python-helloworld:v1.1.0
 
